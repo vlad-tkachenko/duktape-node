@@ -1,0 +1,9 @@
+# Ignore Intellij IDEA project files
+*.iml
+.idea/
+
+# Ignore build folder
+build/
+
+# Ignore node modules
+node_modules/
